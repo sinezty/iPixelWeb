@@ -1,0 +1,5 @@
+# iPixel LED Matrix Python Demo
+# Gerekli paketler
+
+Pillow>=9.0.0
+requests>=2.28.0
